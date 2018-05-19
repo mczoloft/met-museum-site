@@ -1,2 +1,4 @@
-# undp-inequality-trends
-Income Inequality Trends in sub-Saharan Africa: Divergence, Determinants, and Consequences
+# MET Museum Partnership
+Partnering with the Metropolitan Museum of Art, students visualize and interpret data published by the Met under their Open Access Policy.  
+
+
